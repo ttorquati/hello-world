@@ -1,2 +1,3 @@
 # hello-world
-hello world git hub test
+
+Just a common Hello World test.
